@@ -2,9 +2,9 @@
 
 Sample Video Conference with flutter and zegocloud Video Conference Kit
 
-· Get 10,000 free mins month for video conference app: https://bit.ly/3l1mVOJ
-· Find out more about ZEGOCLOUD: https://bit.ly/3WXVgLJ
-· How to make video conference app: https://bit.ly/3YbHyG6
+* Get 10,000 free mins month for video conference app: https://bit.ly/3l1mVOJ
+* Find out more about ZEGOCLOUD: https://bit.ly/3WXVgLJ
+* How to make video conference app: https://bit.ly/3YbHyG6
 
 ZEGOCLOUD allows you to easily build your video conference apps within minutes.
 
